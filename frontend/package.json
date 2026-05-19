@@ -2,6 +2,7 @@
   "name": "placement-predictor-frontend",
   "version": "1.0.0",
   "private": true,
+  "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
@@ -20,7 +21,6 @@
     "autoprefixer": "^10.4.19",
     "postcss": "^8.4.39",
     "tailwindcss": "^3.4.6",
-    "vite": "^8.0.13"
-  },
-  "type": "module"
+    "vite": "^5.4.10"
+  }
 }
