@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Placement Predictor AI — Fixed & Vercel-Ready
 
 ## Project Structure
@@ -127,3 +128,6 @@ Open: http://localhost:3000
 - AI Chatbot (Groq LLaMA3)
 - Dark mode toggle
 - CSV export
+=======
+# placement_predictor
+>>>>>>> c989c99e6c781429c295db200e526774182ec131
