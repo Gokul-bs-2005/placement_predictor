@@ -1,3 +1,7 @@
+<<<<<<<<<<<VERCEL LInk>>>>>>>>>>>>
+<a href="https://placement-predictor-mgur.vercel.app/">Placement Predictor</a>
+
+
 <<<<<<< HEAD
 # Placement Predictor AI — Fixed & Vercel-Ready
 
