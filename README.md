@@ -1,4 +1,4 @@
-<<<<<<<<<<<VERCEL LInk>>>>>>>>>>>>
+VERCEL LInk
 <a href="https://placement-predictor-mgur.vercel.app/">Placement Predictor</a>
 
 
